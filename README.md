@@ -44,14 +44,3 @@ The Notebook also depends on the supplied helper files which should be in the sa
 
 - gb_transform.py
 
-
-
-
- Running the code requires the following packages:
-
-Python 3.5.2
-numpy 1.11.1
-pandas 0.18.1
-matplotlib 1.5.3
-scipy 0.18.1
-
