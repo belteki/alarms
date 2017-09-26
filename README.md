@@ -31,6 +31,9 @@ Requirements to run this Notebook:
 - SciPy version: 0.19.0
 
 
+I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
+
+
 
 The Notebook also depends on the supplied helper files which should be in the same directory as Alarms_GitHub.ipynb 
 
@@ -40,3 +43,15 @@ The Notebook also depends on the supplied helper files which should be in the sa
 - gb_stats.py
 
 - gb_transform.py
+
+
+
+
+This code can be viewed in any web browser. To run it, use the IPython Notebook. Running the code requires the following packages:
+
+Python 3.5.2
+numpy 1.11.1
+pandas 0.18.1
+matplotlib 1.5.3
+scipy 0.18.1
+
