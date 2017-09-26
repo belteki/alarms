@@ -32,11 +32,11 @@ SciPy version: 0.19.0
 
 
 
-The Notebook also depends on the supplied helper files which should be in the same directory:
+The Notebook also depends on the supplied helper files which should be in the same directory as Alarms_GitHub.ipynb 
 
 
-**gb_loader.py**
+gb_loader.py
 
-**gb_stats.py**
+gb_stats.py
 
-**gb_transform.py**
+gb_transform.py
