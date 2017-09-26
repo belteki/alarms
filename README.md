@@ -15,7 +15,7 @@ The outputs (numbers, tables, graphs) of the **Alarms_GitHub.ipynb** IPython Not
 
 
 
-Requirements to run this Notebook:
+This code can be viewed in any web browser. To run it, use the IPython Notebook. Packages required to run this Notebook:
 
 
 - Python version: 3.5.3 | packaged by conda-forge | (default, Feb 10 2017, 07:09:50) 
@@ -47,7 +47,7 @@ The Notebook also depends on the supplied helper files which should be in the sa
 
 
 
-This code can be viewed in any web browser. To run it, use the IPython Notebook. Running the code requires the following packages:
+ Running the code requires the following packages:
 
 Python 3.5.2
 numpy 1.11.1
