@@ -1,13 +1,14 @@
 # Analysis of neonatal ventilator alarms
 
 
-This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"The frequency, duration and cause of ventilator alarms on a neonatal intensive care unit"** _Archives of Disease in Childhood, Fetal & Neonatal Edition_, accepted for publication.
+This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"The frequency, duration and cause of ventilator alarms on a neonatal intensive care unit"** _Arch Dis Child Fetal Neonatal Ed. 2018
+Jul;103(4):F307-F311._
 
 
 Authors: **Gusztav Belteki MD, PhD, FRCPCH, Colin Morley MD, FRCPCH**
 
 
-Contact: gbelteki@aol.com
+Contact: **gbelteki@aol.com**
 
 
 
